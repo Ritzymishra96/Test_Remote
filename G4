@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 code Master--1
 
 Code Feature 2
 >>>>>>> feature
+
+Code bugs 3
+>>>>>>> bugs
